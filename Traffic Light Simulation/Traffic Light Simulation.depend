@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647104870 source:c:\users\ayush raj\documents\c programs\traffic light simulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+
