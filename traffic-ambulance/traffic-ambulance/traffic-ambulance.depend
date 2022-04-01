@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648652801 source:c:\users\ayush raj\desktop\traffic-ambulance\traffic-ambulance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+
